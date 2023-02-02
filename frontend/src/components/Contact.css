@@ -1,0 +1,59 @@
+.form-control {
+    background-color: #F3F3F3;
+    text-align: center;
+
+}
+
+@media(min-width: 1065px) {
+    .form-control {
+        text-align: start;
+    }
+}
+
+@media(min-width: 1065px) {
+    .form-control button {
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.contactForm {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    width: 530px;
+    color: #2D2D2D;
+    margin-right: 100px;
+}
+
+.contactForm input {
+    height: 3rem;
+}
+
+.contactForm textarea {
+    height: 10rem;
+}
+
+.contactForm button {
+    display: block;
+
+}
+
+.btn:hover {
+    background-color: #676767;
+}
+
+.err_span {
+    color: red;
+    text-align: start;
+    display: flex;
+    margin: 0;
+}
+
+.err_span p {
+    color: red;
+    text-align: start;
+    font-size: small;
+    margin: 0;
+}

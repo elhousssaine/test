@@ -1,0 +1,66 @@
+.add_designer_section {
+    background-color: black;
+    width: calc(100vw - calc(100vw - 100%));
+    height: 100vh;
+    margin: 0;
+    padding: 25px;
+}
+
+.section_title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+    text-align: start;
+    margin-left: 1rem;
+    margin-right: 0;
+    margin-bottom: 30px;
+    padding: 0;
+    color: white;
+}
+
+.tlines {
+    text-align: end;
+    margin-right: 0;
+    margin-bottom: 30px;
+}
+
+.add_designer_input {
+    margin-top: 20px;
+    color: white;
+}
+
+.add_designer_input input {
+    margin-left: 0;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    text-align: start;
+    height: 46px;
+    width: auto;
+    padding-left: 10px;
+}
+
+.add_designer_section button {
+    margin-left: 0;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: start !important;
+
+}
+
+.add_designer_section .btn_clr {
+    color: white;
+}
+
+.add_designer_section label {
+    text-align: start;
+}
+
+.left_side_form {
+    margin-right: 60px;
+}
+
+.right_side_form {
+    margin-left: 60px;
+}

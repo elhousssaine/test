@@ -1,0 +1,31 @@
+#LogoText {
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+
+    margin-left: 10px;
+
+}
+
+
+
+.nav-list {
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    /* identical to box height, or 159% */
+
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+}

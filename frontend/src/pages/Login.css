@@ -1,0 +1,81 @@
+.loginSection {
+    background-size: contain;
+    position: absolute;
+    background-position: right;
+    top: 75px;
+    bottom: 48px;
+    width: 90%;
+    left: 0;
+    right: 0;
+    border: 5px solid #000000;
+    margin: auto;
+    /* width: 100vw; */
+    border-radius: 26px;
+    background-color: #F3F3F3;
+    ;
+    text-align: start;
+    background-repeat: no-repeat;
+}
+
+.loginSection form {
+    margin-left: 72px;
+}
+
+.title_admin {
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 102px;
+    color: black;
+    margin-top: 100px;
+    margin-left: 5rem;
+    text-align: start;
+    padding: 0;
+}
+
+.loginSection input {
+    width: 350px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    background-color: #ececec;
+    color: #2D2D2D;
+
+    margin-top: 12px;
+    text-align: start;
+    padding-left: 1em;
+}
+
+.subtitle_login {
+    position: absolute;
+    text-align: start;
+    left: 5rem;
+    bottom: 1em;
+    color: black;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+}
+
+.loginSection input::placeholder {
+    padding-left: 15px;
+    text-align: start;
+}
+
+.loginSection button {
+    width: 200px;
+    height: 60px;
+    margin-top: 34px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #2D2D2D;
+
+    text-align: center;
+}
+
+span {
+    margin-left: 72px;
+    margin-top: 10px;
+    text-align: start;
+}

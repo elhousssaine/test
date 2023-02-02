@@ -1,0 +1,79 @@
+.admin_page {
+    background-color: black;
+    color: white;
+}
+
+.admin_section {
+    width: calc(100vw - calc(100vw - 100%));
+    height: 100vh;
+}
+
+.portfolio_project_section,
+.portfolio_blog_section {
+    width: calc(100vw - calc(100vw - 100%));
+    height: auto;
+    margin: 0;
+    padding: 25px;
+}
+
+
+.admin_section>img {
+    width: 65%;
+}
+
+.project_image_portfolio {
+    width: 85vw;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: white;
+    border-width: 2px;
+}
+
+.subtitle_admin {
+    width: 401px;
+    height: 54px;
+    position: absolute;
+    right: 8px;
+    margin-right: 10px;
+    text-align: end;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+}
+
+.plus_icon1 {
+    height: 40px;
+    fill: white;
+    text-align: left;
+    margin-right: 5px;
+}
+
+.ibb {
+    margin-top: 30px;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: white;
+}
+
+.news h2 {
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: start;
+}
+
+.news p {
+    text-align: start;
+    font-weight: 200;
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 20px;
+}

@@ -1,0 +1,29 @@
+.RecContent {
+    box-sizing: border-box;
+    height: 600px;
+    border: 1px solid #FFFFFF;
+    border-radius: 26px;
+    margin-bottom: 40px;
+    padding: 5px;
+
+}
+
+.title__RecContent {
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 102px;
+    /* display: flex;
+    align-items: center; */
+    margin: 3%;
+    text-align: start;
+}
+
+.subtitle__RecContent {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-bottom: 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: start;
+}

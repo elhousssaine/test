@@ -1,0 +1,162 @@
+.fill {
+    background-color: black;
+    padding-bottom: 1em;
+}
+
+.text1 {
+    position: absolute;
+    margin-right: 45px;
+    right: 1px;
+    margin-top: 83vh;
+    text-align: end;
+    width: 33vw;
+}
+
+.projecthomesection {
+    width: calc(100vw - calc(100vw - 100%));
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    background-position: top;
+    margin-bottom: 10px;
+}
+
+.projectImg_1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 85vw;
+    height: 18.4vw;
+    object-fit: cover;
+}
+
+.projectImg_2 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 85vw;
+    height: auto;
+
+}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.section_title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+    text-align: start;
+    margin-left: 1rem;
+    margin-right: 0;
+    margin-bottom: 30px;
+    padding: 0;
+    color: white;
+}
+
+.tlines {
+    text-align: end;
+    margin-right: 0;
+    margin-bottom: 30px;
+}
+
+.project_title_section {
+    background-color: black;
+    width: calc(100vw - calc(100vw - 100%));
+    margin: 0;
+    padding: 25px;
+}
+
+.MainRec1 {
+    box-sizing: border-box;
+    margin: 15px auto;
+    width: 85vw;
+    height: 500px;
+    background-color: #F16529;
+    border-radius: 5px;
+}
+
+.text2 {
+    text-align: left;
+    padding-left: 1em;
+    font-weight: bold;
+    font-size: 4rem;
+    padding-top: 0.75em;
+}
+
+.text3 {
+    text-align: left;
+    padding-left: 4em;
+
+    padding-right: 5em;
+    padding-top: 3em;
+}
+
+.text4 {
+    text-align: left;
+    padding-right: 17em;
+    padding-top: 3em;
+}
+
+.MainRec2 {
+    box-sizing: border-box;
+    width: 90vw;
+    height: 250px;
+    background-color: #959595;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+.fill p {
+    color: white;
+}
+
+.fill button {
+    color: black;
+    background: white;
+}
+
+.fill span {
+    color: white;
+}
+
+.aboutdesigner a {
+    margin: 30px;
+    margin-left: 0px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.aboutdesigner {
+    margin-left: 4em;
+}
+
+.aboutdesigner a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+a:active {
+    text-decoration: none;
+}

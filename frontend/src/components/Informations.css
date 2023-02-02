@@ -1,0 +1,52 @@
+.footer__info {
+    margin-left: 118px;
+    text-align: start;
+}
+
+.footer__info p {
+
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    /* or 159% */
+    text-align: start;
+    color: #000000;
+}
+
+@media(max-width: 1065px) {
+
+    .footer__info p,
+    .footer__info h2,
+    .footer__info a,
+    .made_with,
+    .icons_group_contact {
+        text-align: center;
+    }
+}
+
+.footer__info h2 {
+    text-align: start;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.icons_group_contact {
+    text-align: start;
+}
+
+.footer__info a {
+    margin: 30px;
+    margin-left: 0px;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: start;
+}
+
+.made_with {
+    text-align: start;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+}

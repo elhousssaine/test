@@ -1,0 +1,21 @@
+.MainRec {
+    box-sizing: border-box;
+    width: 1543px;
+    height: 600px;
+    border: 5px solid #000000;
+    border-radius: 26px;
+    text-align: center;
+    margin-bottom: 40px;
+    display: grid;
+}
+
+.MainRec svg {
+    margin: auto;
+}
+
+.desc {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: end;
+}
